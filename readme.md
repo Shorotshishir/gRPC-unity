@@ -2,7 +2,7 @@
 
 A simple Client implementation of gRPC in unity
 
-Tested in 2018.3 and 2019.4 too.
+Tested in 2018.3 and 2019.4 too using `grpc_unity_package.2.40.0-dev202107291036`.
 
 Find the server program [Here](https://github.com/Shorotshishir/grpc/tree/main/Server)
 
